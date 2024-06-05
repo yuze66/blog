@@ -1,3 +1,4 @@
 ```dataview
 CALENDAR file.ctime 
+FROM "/"
 ```
